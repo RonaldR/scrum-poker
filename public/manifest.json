@@ -1,0 +1,9 @@
+{
+	"name": "Scrum Poker",
+	"short_name": "Scrum Poker",
+	"background_color": "#FFFFFF",
+	"description": "Scrum Poker",
+	"display": "fullscreen",
+	"start_url": "/",
+	"theme_color": "#000"
+}
