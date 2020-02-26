@@ -14,7 +14,7 @@ const About: NextPage = () => (
     </p>
 
     <p>
-      <a href="https://github.com/RonaldR/scrumpoker">https://github.com/RonaldR/scrumpoker</a>
+      <a href="https://github.com/RonaldR/scrum-poker">https://github.com/RonaldR/scrum-poker</a>
     </p>
   </section>
 );

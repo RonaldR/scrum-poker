@@ -1,20 +1,20 @@
 {
 	"name": "scrum-poker",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Scrum poker app",
 	"main": "index.js",
 	"keywords": [],
-	"author": "",
+	"author": "Ronald R",
 	"license": "ISC",
 	"scripts": {
 		"dev": "next",
 		"build": "next build",
 		"start": "next start",
-		"lint": "eslint . --ext .tsx --fix"
+		"lint": "eslint . --ext .tsx"
 	},
 	"husky": {
 		"hooks": {
-			"pre-commit": "yarn lint"
+			"pre-commit": "yarn lint --  --fix && git add ."
 		}
 	},
 	"dependencies": {
