@@ -19,7 +19,7 @@ const Footer = (): ReactElement => (
     <style jsx>
       {`
       .footer {
-        padding: 12px 0;
+        padding: 24px 0;
         border-top: 1px solid #f1f1f1;
         margin: auto auto 0 auto;
         width: 100%;
